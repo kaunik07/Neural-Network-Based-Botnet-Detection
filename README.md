@@ -11,7 +11,7 @@ Creating a Deep Learning Model to detect Botnet using mulitple features.
 |Protocol|Types of protocol TCP/UDP|
 |SrcPort|Source Port|
 |DstPort|Destination Port|
-|TCP flags| tcp flags type|SYN/FIN/ACK||
+|TCP flags| tcp flags type(SYN/FIN/ACK)|
 
 ## Byte Based Feature
 |Feature|Deails| 
